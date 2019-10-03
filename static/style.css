@@ -1,0 +1,12 @@
+.box{
+    width: 200px;
+    height: 200px;
+    border: 4px solid black;
+    background-color: #9FC5F8;
+    display: inline-block;
+   
+}
+
+.color {
+    background-color: {{color1}};
+}
